@@ -8,6 +8,5 @@
     <a href="https://codingvivek.github.io/vertical-nav/">codingvivek.github.io/vertical-nav</a>
     <br />
     <br />
-    <a href="https://codingvivek.github.io">About Me</a>
   </p>
 </p>
